@@ -1,0 +1,22 @@
+.banner-image {
+  background: url('../Img/banner.jpg') center/cover no-repeat;
+  height: 80vh;
+  color: white;
+  flex-direction: column;
+}
+
+.btn1{
+color: white;
+background-color: #F1A501;
+height: 60px;
+width: 170px;
+}
+
+.text1{
+color: red;
+}
+.text{
+font-weight: bold;
+text: 89px;
+}
+
